@@ -114,8 +114,7 @@ sorter-app/
 │   ├── core.py            # Lógica de negocio (escaneo y organización)
 │   ├── gui.py             # Interfaz gráfica
 │   └── strings.py         # Constantes, textos y configuración
-├── assets/
-│   └── icon.ico           # Icono de la aplicación
+├── icon.ico               # Icono de la aplicación
 └── README.md
 ```
 
