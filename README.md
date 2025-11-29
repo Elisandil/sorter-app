@@ -42,7 +42,7 @@ Una aplicación de escritorio simple y eficiente para organizar archivos automá
 1. Clona el repositorio:
 ```bash
 git clone https://github.com/Elisandil/sorter-app.git
-cd SorterApp
+cd sorter-app
 ```
 
 2. Ejecuta la aplicación:
@@ -107,7 +107,7 @@ El ejecutable se generará en la carpeta `dist/`
 ## Estructura del Proyecto
 
 ```
-SorterApp/
+sorter-app/
 ├── main.py                 # Punto de entrada de la aplicación
 ├── sorter/
 │   ├── __init__.py        # Inicialización del paquete
